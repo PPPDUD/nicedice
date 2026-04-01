@@ -5,6 +5,7 @@
 `nicedice` comes with multiple premade dice, installed at `/usr/share/nicedice/`:
 - `d6die`: standard, six-sided die
 - `d20die`: twenty-sided die, most commonly used in RPGs
+- `percentile`: 100-sided die with "%" suffix, used for generating percentages
 - `8ball`: magic 8-ball, used for answering simple yes/no questions
 
 ## Examples
