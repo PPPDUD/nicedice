@@ -1,5 +1,5 @@
 # nicedice
-`nicedice` is a program for Debian-based systems that lets you simulate dice and other simple, probabilistic mechanisms, like 8-balls.
+`nicedice` is a program for Debian-based systems that lets you simulate dice and other simple, probabilistic mechanisms, like magic 8-balls.
 
 ## Presets
 `nicedice` comes with multiple premade dice, installed at `/usr/share/nicedice/`:
