@@ -17,3 +17,7 @@ In order to use it, you need to have `python3-questionary` installed on your sys
 Roll a standard (six-sided) die: `nicedice /usr/share/nicedice/d6die`
 
 Interactively define a die named `dreidel.json`: `nicedice-create dreidel.json`
+
+## A note about manmade code
+The owner of this project believes in good faith that it complies with [The Manmade Software Declaration 1.0](https://mojavesoft.net/ai-policy/1.0).
+Contributors are encouraged to follow the guidelines described at the aforementioned link when proposing any code changes, and patches that appear to violate those rules may be rejected at any time.
