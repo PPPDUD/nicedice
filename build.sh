@@ -5,8 +5,8 @@ fpm \
 	-p nicedice.deb \
 	--name nicedice \
 	--license MIT \
-	--version 0.1.0 \
-	--architecture amd64 \
+	--version 0.1.1 \
+	--architecture any \
 	--description "Software-defined dice simulation with the ability to create and share custom RNGs." \
 	--url "https://github.com/PPPDUD/nicedice" \
 	--maintainer "PPPDUD <mojavesoft@gmail.com>" \
